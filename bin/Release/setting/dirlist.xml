@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dirs>
+  <Dir watch="true">D:\tmp\xxx</Dir>
+  <Dir watch="false">D:\project\win32\compass-bundle\demo\3</Dir>
+  <Dir watch="false">D:\project\win32\compass-bundle\demo\2</Dir>
+</Dirs>
